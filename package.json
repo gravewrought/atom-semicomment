@@ -1,11 +1,11 @@
 {
-  "name": "semicomment",
+  "name": "atom-semicomment",
   "main": "./lib/semicomment",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Quick commenting plugin for Atom; primarily for 6502 assembly comments.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/semicomment",
+  "repository": "https://github.com/gravewrought/atom-semicomment",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
