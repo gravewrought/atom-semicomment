@@ -1,5 +1,5 @@
 {
-  "name": "atom-semicomment",
+  "name": "semicomment",
   "main": "./lib/semicomment",
   "version": "0.1.0",
   "description": "Quick commenting plugin for Atom; primarily for 6502 assembly comments.",
